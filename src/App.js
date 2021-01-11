@@ -9,7 +9,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <a>
-          Learn React
+          Teste
         </a>
         <div>
           <Counter initialCount={1} color="white"/>
